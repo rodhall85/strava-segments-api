@@ -1,0 +1,24 @@
+{
+  "name": "strava-segments-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodhall85/strava-segments-api.git"
+  },
+  "author": "Rod Hall",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodhall85/strava-segments-api/issues"
+  },
+  "homepage": "https://github.com/rodhall85/strava-segments-api#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "production": "0.0.2",
+    "serverless-http": "^2.3.0"
+  }
+}
